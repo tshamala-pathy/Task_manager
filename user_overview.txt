@@ -1,0 +1,16 @@
+Total users: 4
+Total tasks: 3
+
+User: admin
+Total task assigned: 2
+Total task assigned percentage: 66.67%
+Task completed percentage: 100.00%
+Task uncompleted percentage: 0.00%
+Percentage Overdue_uncompleted Tasks: 0.00%
+
+User: kumi
+Total task assigned: 1
+Total task assigned percentage: 33.33%
+Task completed percentage: 0.00%
+Task uncompleted percentage: 100.00%
+Percentage Overdue_uncompleted Tasks: 0.00%

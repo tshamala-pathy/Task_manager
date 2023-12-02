@@ -1,0 +1,6 @@
+Total Tasks generated: 3
+Total Tasks Completed: 2
+Total tasks Uncompleted: 1
+Total Tasks Overdue Uncompleted: 0
+Uncompleted Task Percentage: 33.33%
+Overdue Task Percentage: 0.00%
