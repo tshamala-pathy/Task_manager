@@ -54,4 +54,10 @@ The provided Python script is a simple task management system with user authenti
 
 ### How to run
 1. Clone the repository:
-  Git clone 
+  Git clone https://github.com/tshamala-pathy/Task_manager.git
+
+2. Navigate to the project directory:
+   cd task_manager.py
+
+### Author:
+  - Tshamala Pathy
