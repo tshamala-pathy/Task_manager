@@ -1,7 +1,7 @@
 import datetime
 import os
 
-# Read user data from a file and store it in a dictionary for efficient lookup.
+# Read user datas from a file and store it in a dictionary for efficient lookup.
 user_data = {}  # Store usernames and passwords
 with open("user.txt", 'r') as file:
     for line in file:
